@@ -1,12 +1,12 @@
 {
   "name": "farm-game",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.1.0",
+  "private": true,
+  "description": "A top-down farm game for kids: walk around your farm, tap animals and record their sounds.",
+  "license": "ISC",
+  "packageManager": "pnpm@12.11.2",
+  "engines": {
+    "node": ">=20"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {}
 }
